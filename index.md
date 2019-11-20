@@ -10,7 +10,7 @@ tags:Open-source license
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>开源许可证</title>
+		
 	</head>
 	<body>
 		<div>
